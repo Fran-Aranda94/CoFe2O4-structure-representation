@@ -1,0 +1,1 @@
+# CoFe2O4-structure-representation
